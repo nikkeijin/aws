@@ -17,7 +17,7 @@ aws configure
 brew install docker-machine
 ```
 
-# Setup EC2 instance with Default Zone OR Specifc Zone & VPC
+# Setup EC2 instance with default zone OR specifc zone & VPC
 
 > EC2 with default VPC
 
