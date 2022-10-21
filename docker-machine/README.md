@@ -19,7 +19,7 @@ brew install docker-machine
 
 # Setup EC2 instance with default zone OR specifc zone & VPC
 
-> EC2 with default VPC
+> EC2 with Default Zone & VPC
 
 ```
 docker-machine create --driver amazonec2 --amazonec2-instance-type "t2.small" --amazonec2-region "ap-northeast-1" testmachine
